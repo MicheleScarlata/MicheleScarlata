@@ -3,8 +3,15 @@
 
 🎓 Student of Computer Science at the University of Turin
 
+---
+
+### 🔗 Connect with me!
+- 💼 [LinkedIn](https://www.linkedin.com/in/MicheleScarlata/)
+- 💻 [GitHub](https://github.com/MicheleScarlata)
+- 📧 [Email](scarlata.michele04@gmail.com)
 
 ---
+
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" />
