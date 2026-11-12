@@ -1,7 +1,7 @@
 # 🌊 Michele Scarlata
 **`University student`**
 
-🎓 Cybersecurity Engineering student at the Polytechnic of Turin
+🎓 Master's student in Cybersecurity Engineering at the Polytechnic of Turin
 
 ---
 
