@@ -1,24 +1,20 @@
 # 🌊 Michele Scarlata
-**`University student`**
 
-🎓 Master's student in Cybersecurity Engineering at the Polytechnic of Turin
+**Cybersecurity Engineering M.Sc. Student** @ [Politecnico di Torino](https://www.polito.it/) · **B.Sc. in Computer Science** @ [UniTo](https://www.unito.it/)
 
----
-
-### 🔗 Connect with me!
-- 💼 [LinkedIn](https://www.linkedin.com/in/MicheleScarlata/)
-- 💻 [GitHub](https://github.com/MicheleScarlata)
-- 📧 [Email](scarlata.michele04@gmail.com)
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MicheleScarlata/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:scarlata.michele04@gmail.com)
 
 ---
 
-### 🧰 Languages and Tools
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/c/c-original.svg" />
-<img align="left" alt="Haskell" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/haskell/haskell-original.svg" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original.svg" />
+### 🧰 Languages & Tools
+<p>
+  <img alt="C" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;
+  <img alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
+  <img alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;&nbsp;
+  <img alt="Haskell" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" />&nbsp;&nbsp;
+  <img alt="Linux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;&nbsp;
+  <img alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
+  <img alt="Jupyter" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+</p>
